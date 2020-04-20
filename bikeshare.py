@@ -243,19 +243,22 @@ def main():
         q1 = input("\nWould you like to see the most common date/time of travel? (Enter yes or no.)\n")
         if q1.lower() == 'yes':
             time_stats(df)
+        
         q2 = input("\nWould you like to see the most common stations? (Enter yes or no.)\n")
         if q2.lower() == 'yes':
             station_stats(df)
+        
         q3 = input("\nWould you like to see a summary of travel time? (Enter yes or no.)\n")
         if q3.lower() == 'yes':
             trip_duration_stats(df)
+        
         q4 = input("\nWould you like to see a summary of user types? (Enter yes or no.)\n")
         if q4.lower() == 'yes':
             user_stats(df, city)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
-            print('\nThank you! See you next time.\n')
+            print('\nSee you and have a good one!\n')
             break
 
 ###########################################################################
