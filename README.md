@@ -19,3 +19,6 @@ Direct submission resulted in an error message without details or potential solu
 ### Credits
 All code was written by the student, based on the course materials and online open resources such as StackOverflow. 
 
+### Additional notes
+Materials provided and generated in this project will then be used in the project for version control. 
+
