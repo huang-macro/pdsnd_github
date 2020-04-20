@@ -133,6 +133,7 @@ def time_stats(df):
 ###########################################################################
 ###########################################################################
 ###########################################################################
+## A function to find the popular stations
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
@@ -176,6 +177,7 @@ def station_stats(df):
 ###########################################################################
 ###########################################################################
 ###########################################################################
+## A function to summarize the durations
 
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
@@ -197,6 +199,7 @@ def trip_duration_stats(df):
 ###########################################################################
 ###########################################################################
 ###########################################################################
+## A function to summarize the user information
 
 def user_stats(df, city):
     """Displays statistics on bikeshare users."""
