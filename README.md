@@ -1,5 +1,6 @@
 ### Date created
-April 20, 2020
+Documentation created on April 20, 2020
+Project conducted on April 17-19, 2020
 
 ### Project Title
 Exploring Bikeshare Data  
