@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+April 20, 2020
 
 ### Project Title
-Replace the Project Title
+Exploring Bikeshare Data  
 
 ### Description
-Describe what your project is about and what it does
+This is one of the projects for the Udacity nanodegree: programing for data science using Python. This project includes bikeshare data for three US cities: Chicago, New York City and Washington (D. C.). The tasks include providing an interactie programe to allow the user select the data to explore and based on the user's selection, calculating a series of statistic summaries of the data. 
 
 ### Files used
-Include the files used
+Three CSV files containing the bikeshare data for three cities. 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All code was written by the student, based on the course materials and online open resources such as StackOverflow. 
 
