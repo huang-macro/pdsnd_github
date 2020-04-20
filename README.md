@@ -10,6 +10,9 @@ This is one of the projects for the Udacity nanodegree: programing for data scie
 ### Files used
 Three CSV files containing the bikeshare data for three cities. 
 
+### Files created
+A .py file was created based on the template provided by the course. 
+
 ### Credits
 All code was written by the student, based on the course materials and online open resources such as StackOverflow. 
 
